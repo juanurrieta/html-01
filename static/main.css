@@ -1,0 +1,27 @@
+/* selector por tag */
+h1 {
+    color:rgb(197, 115, 0);
+}
+h2 {
+    color: brown;
+}
+article {
+    color: rgb(17, 15, 22);
+}
+
+ul {
+    color: blueviolet;
+}
+header p {
+    color: rgb(12, 124, 25);
+}
+article h2 {color: rgb(85, 3, 91);}
+
+/* Selector por clases */
+.titulo2 {
+    color: red;
+}
+.text {font-size: 5rem;}
+/* selector por id */
+#text-a1 {color: midnightblue;
+font-size: 3rem;}
